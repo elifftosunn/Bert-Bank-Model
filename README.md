@@ -1,5 +1,10 @@
 # Bert-Bank-Model
 
+You can use the "bert-bank-model" model the Hugging Face by clicking on the icon.
+
+<a href="https://huggingface.co/elifftosunn/Bert-Bank-Model" target="blank"><img align="center" src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg"></a>
+
+
 ## About the Bert-Bank-Model
 
 It is a Turkish BERT-based model that will analyze people's bank complaints and classify them according to one of eight categories. The classification headings are as follows:
