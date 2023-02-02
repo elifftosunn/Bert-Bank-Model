@@ -1,6 +1,6 @@
 # Bert-Bank-Model
 
-You can use the "bert-bank-model" model the Hugging Face by clicking on the icon.
+By clicking on the icon, you can use the "bert-bank-model" model over the Hugging Face.
 
 <a href="https://huggingface.co/elifftosunn/Bert-Bank-Model" target="blank"><img align="center" src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg"></a>
 
