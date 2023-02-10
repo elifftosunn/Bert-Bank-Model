@@ -18,6 +18,11 @@ It is a Turkish BERT-based model that will analyze people's bank complaints and 
 - Limit 
 - Müşteri Temsilcisi
 
+
+![label_percent](https://user-images.githubusercontent.com/92747017/218093891-7c3ddefc-12e3-4c46-b05a-0113cf720654.png)
+
+
+
 246412 thousand complaints were used in model training. The success rates in education are as follows.
 
 |        | Kart İşlemleri | Kredi İşlemleri | Hesap İşlemleri | Kargo | Limit | Müşteri Temsilcisi |  KKB Skor | accuracy |
